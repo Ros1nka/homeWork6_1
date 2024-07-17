@@ -23,6 +23,8 @@ public class Main {
         //Ex3
         System.out.println("Задача 3");
 
+        fullName = "Иванов Семён Семёнович";
+
         System.out.println("Данные Ф. И. О. сотрудника - " + fullName.replace("ё", "е"));
         System.out.println();
     }
